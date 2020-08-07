@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item-->
+<!--        android:id="@+id/id_menu"-->
+<!--        android:icon="@drawable/ic_settings_foreground"-->
+<!--        android:background="@drawable/wallpaper"-->
+<!--        app:showAsAction="ifRoom"-->
+<!--        android:title="@string/menu" />-->
+    <item
+        android:id="@+id/id_settingsBtn"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/id_aboutBtn"
+        android:title="@string/about_covapp"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/id_logoutBtn"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+</menu>

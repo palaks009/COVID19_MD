@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_covidtracker"
+        android:icon="@drawable/ic_tracker"
+        android:title="@string/title_covidtracker" />
+
+    <item
+        android:id="@+id/navigation_contacttracer"
+        android:icon="@drawable/ic_find"
+        android:title="@string/title_contacttracer" />
+
+    <item
+        android:id="@+id/navigation_covidupdates"
+        android:icon="@drawable/ic_update"
+        android:title="@string/title_covidupdates" />
+
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/ic_services"
+        android:title="@string/title_services" />
+
+</menu>

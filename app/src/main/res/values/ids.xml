@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textYes" type="id" />
+    <item name="id_creditDesc" type="id" />
+    <item name="id_creators" type="id" />
+    <item name="id_credits" type="id" />
+    <item name="id_functionDisc" type="id" />
+    <item name="imageView" type="id" />
+    <item name="id_privacyDesc" type="id" />
+    <item name="textView9" type="id" />
+    <item name="id_functionsText" type="id" />
+    <item name="id_terms" type="id" />
+</resources>

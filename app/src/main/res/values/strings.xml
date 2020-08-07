@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">Cov-19 MD</string>
+
+    // google map API KEY
+    <string name="google_map_api_key">AIzaSyDgwvlLBgs8OcyictOHG2MAEVoZLnsK85Y</string>
+
+    <string name="applogo" />
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="create_account">Create account</string>
+    <string name="register_account">Register Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="patientQuestion">Are you a COVID patient?</string>
+
+
+    //DASHBOARD PAGE
+    <string name="dashboard">Dashboard</string>
+    <string name="covidTracker">COVID-19\nTracker</string>
+    <string name="contactTracer">Contact\nTracing</string>
+    <string name="covidUpdates">COVID-19\nUpdates</string>
+    <string name="services">Services\n</string>
+    <string name="title_activity_cov_tracker">Map</string>
+    <string name="dashboardlogo">dashboardlogo</string>
+
+    //mainpage
+    <string name="Guest">Guest Login</string>
+    <string name="User">User Login</string>
+
+    //Covid-19 Tracker
+    <string name="title_activity_covid_tracker">MainActivity</string>
+    <string name="title_covidtracker">Covid Tracker</string>
+    <string name="title_contacttracer">Contact Tracer</string>
+    <string name="title_covidupdates">Covid Updates</string>
+    <string name="title_services">Services</string>
+    <string name="title_activity_covid_tracer">Map</string>
+
+    //service
+    <string name="hospitals">Nearest\nHospitals</string>
+    <string name="emergencyCont">Emergency\nContacts</string>
+    <string name="testingCenters">COVID\nTesting Centers</string>
+    <string name="covidConn">COVID\nConnect</string>
+    <string name="selfTest">Self\nTesting</string>
+    <string name="intent_user_list" />
+    <string name="intent_user_locations" />
+
+    //tracing
+    <string name="Email">email</string>
+    <string name="Fullname">Fullname</string>
+    <string name="submit">submit</string>
+    <string name="fetch">fetch</string>
+    <string name="tracing">texttracing</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact">Contact</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="title_activity_nearest_hospital">Map</string>
+    <string name="contactlogo" />
+    <string name="servicesdashboard" />
+    <string name="nearby_restaurants">Nearby Restaurants</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="nearby_schools">Nearby Schools</string>
+    <string name="testing_centers">Testing Centers</string>
+    <string name="Name" />
+    <string name="location">Location</string>
+    <string name="county">County</string>
+    <string name="schedule_contact">Schedule Contact</string>
+    <string name="testingcenter" />
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="settings">Settings</string>
+    <string name="about_covapp">About CovApp</string>
+    <string name="logout">Logout</string>
+    <string name="menu">Menu</string>
+    <string name="choose_city" />
+    <string name="profilelogo" />
+    <string name="fullname" />
+    <string name="does_anyone_in_your_family_member_has_covid_symptoms">Does anyone in your family member has COVID-19 symptoms"</string>
+    <string name="are_you_a_covid_patient"> Are you a COVID-19 patient</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="settings_no">No</string>
+    <string name="settings_yes">Yes</string>
+    <string name="settingsFamily_no">No</string>
+    <string name="settingsFamily_yes">Yes</string>
+    <string name="updates">Update</string>
+    <string name="email_id" />
+    <string name="settings_full_name">Full Name : </string>
+    <string name="settings_email_default">Email : </string>
+    <string name="user_id">User Id : </string>
+    <string name="app_contact">Contact: asups20covidapp@gmail.com</string>
+    <string name="credits_desc">Maryland Department Of Health:\n    https://coronavirus.maryland.gov/\n
+        Projections Using Machine Learning\n    https://covid19-projections.com/</string>
+    <string name="creator_desc">Ashin Matthew Thomas, Sarita Upreti, Palak Sharma</string>
+    <string name="privacy_terms">Privacy Terms</string>
+    <string name="functions">Purpose</string>
+    <string name="creators">Creators</string>
+    <string name="credits">Credits</string>
+    <string name="func_desc">Cov-19 MD allows you to track the live location of any COVID-19 patient registered in the app.
+        The user can trace down the contacts they have met in previous few weeks. Cov-19 MD displays information on
+        number of cases in MD, hospitals, testing centers, and COVID-Connect from Maryland Heath Department.</string>
+    <string name="terms_desc">The following information entered by the user may be stored in our database:Username, Age, Contact,
+        Status(COVID-19 patient or not)</string>
+    <string name="cov_19_md">Cov-19 MD</string>
+    <string name="acoutapp_image">aboutApp_image</string>
+
+
+</resources>

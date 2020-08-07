@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294667588160",
+    "firebase_url": "https://covapp-b7208.firebaseio.com",
+    "project_id": "covapp-b7208",
+    "storage_bucket": "covapp-b7208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294667588160:android:81503215e163b4609485a5",
+        "android_client_info": {
+          "package_name": "com.example.covapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294667588160-jpj1cpre2q6n7ugciuv04cps8jt8hv3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covapp",
+            "certificate_hash": "795b81e7a2b3449df5591d2484691880fcd85554"
+          }
+        },
+        {
+          "client_id": "294667588160-00ukil57m9qu4bd1ie3v1f6rqn055vq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwvlLBgs8OcyictOHG2MAEVoZLnsK85Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294667588160-00ukil57m9qu4bd1ie3v1f6rqn055vq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
